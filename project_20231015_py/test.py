@@ -122,3 +122,6 @@
 # print(names[2].title())
 
 # 3.2.3从列表中删除元素
+
+# print('hello world')
+import this
